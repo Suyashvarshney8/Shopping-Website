@@ -1,10 +1,18 @@
-# Bouncing-Ball-Game
-A Bouncing ball game using basics of Python random module and time module 
-The game consist of a moving ball which can be defleted by boundaries and a paddle.
-The aim of the game is to stop the ball from hitting the bottom of the game window.
-We can move the paddle at bottom in left and right directions in order to stop the ball from hitting the ground.
+# frontendflipkartclone
+The Frontend Flipkart Clone is a web application that replicates the user interface and design of the popular e-commerce platform Flipkart. It serves as a demonstration of web development skills and the ability to create responsive and interactive user interfaces using modern frontend technologies.
+A Flipkart clone is a static replica of the Flipkart website that has features like add-to-cart, remove-from-cart, increase quantity in-cart, and search-product functionality.
+HTML 5, CSS 3, and Java script were the technologies utilized.
+#
 
 
-![Screenshot (475)](https://github.com/Suyashvarshney8/Bouncing-Ball-Game/assets/108462601/c1602d34-6293-4882-8b09-47fa03d681fc)
-![Screenshot (476)](https://github.com/Suyashvarshney8/Bouncing-Ball-Game/assets/108462601/fda18730-e40b-4a4f-a87c-5d92ecc269b4)
-![Screenshot (477)](https://github.com/Suyashvarshney8/Bouncing-Ball-Game/assets/108462601/23c3f2a5-c1f9-4572-8404-1f78a5b65eaa)
+
+
+
+
+
+
+
+![Screenshot (478)](https://github.com/Suyashvarshney8/Shopping-Website/assets/108462601/f9d0dd3d-1e46-4926-b9d8-41e60d874c9d)
+![Screenshot (481)](https://github.com/Suyashvarshney8/Shopping-Website/assets/108462601/521a2c43-2e45-4935-8f46-6cfe0db43d6b)
+![Screenshot (482)](https://github.com/Suyashvarshney8/Shopping-Website/assets/108462601/7cb65a2a-b618-4d2f-aeef-019a25d04d73)
+![Screenshot (483)](https://github.com/Suyashvarshney8/Shopping-Website/assets/108462601/36764688-2fd2-4c62-9149-89046d7b2f23)
